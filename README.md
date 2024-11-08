@@ -2,7 +2,7 @@
 
 Demonstration of an anti-disassembly technique, weaponized to be used in Rust.
 
-Details in the article : TODO
+Details in my post : [here](https://gelven4sec.github.io/posts/rogue_byte/)
 
 ## Usage
 
